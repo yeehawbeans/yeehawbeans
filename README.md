@@ -1,4 +1,37 @@
-### Hi there 👋
+## Hi there, I'm B4CKF1SH 👋
+
+I'm a student at a high school near Cologne, Germany.
+
+I have started coding as a hobby in 2015 and have come quite a way since then.
+
+### Abilities
+
+> So far I am proficient in these languages:
+
+* Java
+
+* Python
+
+* C#
+
+* SQL
+
+> I am planning to learn these languages soon:
+
+* HTML / CSS
+
+* JavaScript
+
+* TypeScript
+
+* C++
+
+* Assembly
+
+### ✉ Contact
+
+* __Discord__ - [TheUltimateGhost#1964](https://discord.com/user/391578805095104522)
+
 
 <!--
 **B4CKF1SH/b4ckf1sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
