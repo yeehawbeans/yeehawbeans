@@ -8,13 +8,13 @@ I have started coding as a hobby in 2015 and have come quite a way since then.
 
 > So far I am proficient in these languages:
 
-* Java
+* **Java** - Excellent
 
-* Python
+* **Python** - Good
 
-* C#
+* **C#** - Good
 
-* SQL
+* **SQL** - Okay
 
 > I am planning to learn these languages soon:
 
