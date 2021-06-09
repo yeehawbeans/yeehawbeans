@@ -30,7 +30,7 @@ I have started coding as a hobby in 2015 and have come quite a way since then.
 
 ### ✉ Contact
 
-* __Discord__ - [TheUltimateGhost#1964](https://discord.com/user/391578805095104522)
+* __Discord__ - [TheUltimateGhost#1964](https://discord.com/users/391578805095104522)
 
 
 <!--
