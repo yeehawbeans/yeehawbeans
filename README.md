@@ -1,7 +1,5 @@
 ## Hi there, I'm B4CKF1SH 👋
 
-I'm a student at a high school near Cologne, Germany.
-
 I have started coding as a hobby in 2015 and have come quite a way since then.
 
 ### Abilities
