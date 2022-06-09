@@ -14,17 +14,15 @@ I have started coding as a hobby in 2015 and have come quite a way since then.
 
 * **SQL** - Okay
 
+* **JavaScript** - Okay
+
 > I am planning to learn these languages soon:
 
 * HTML / CSS
 
-* JavaScript
-
 * TypeScript
 
 * C++
-
-* Assembly
 
 ### ✉ Contact
 
