@@ -26,8 +26,10 @@ I have started coding as a hobby in 2015 and have come quite a way since then.
 
 ### ✉ Contact
 
-* __Discord__ - [TheUltimateGhost#1964](https://discord.com/users/391578805095104522)
+* __Discord__ - [ghost1e#1964](https://discord.com/users/391578805095104522)
 
+
+[![@b4ckf1sh's Holopin board](https://holopin.io/api/user/board?user=b4ckf1sh)](https://holopin.io/@b4ckf1sh)
 
 <!--
 **B4CKF1SH/b4ckf1sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
